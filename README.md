@@ -74,20 +74,28 @@
 
 ---
 
-## 🎮 Fun Stuff
+---
+
+## 🎮 Fun Stuff  
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/mohamed-ebrahim-hamed/))  
-- 📂 [GitHub](https://github.com/username)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ebrahim-hamed/)  
+- 📂 [GitHub](https://github.com/mohamed-ebrahim-hamed)  
 
-![Visitors](https://komarev.com/ghpvc/?username=username&label=visitors&color=blue&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=mohamed-ebrahim-hamed&label=visitors&color=blue&style=flat)
 
 ---
 
 ## 🟡 Pac-Man Contribution Graph  
+![Pacman graph](https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/pacman-contribution-graph.svg)
+
+---
+
+⚡ *Always curious about how technology can make life smarter and easier.*  
+
 ![Pacman graph](https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/pacman.svg)
 
 ---
