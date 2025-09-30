@@ -40,9 +40,6 @@
 
 - **Hardware & IoT**:  
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
-  ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)  
-  ![MATLAB](https://img.shields.io/badge/MATLAB-FF8800?style=for-the-badge&logo=mathworks&logoColor=white)  
 
 - **Other Tools**:  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
@@ -75,31 +72,25 @@
 
 ---
 
-### 🐍 Fun Stuff  
+---
 
-<img src="https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/snake.svg" alt="Snake animation"/>
+## 🎮 Fun Stuff
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/username)  
+- 📂 [GitHub](https://github.com/username)  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ebrahim-hamed)  
-- 📂 [GitHub](https://github.com/mohamed-ebrahim-hamed)  
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-ebrahim-hamed" alt="Visitor Counter"/>  
-</div>
+![Visitors](https://komarev.com/ghpvc/?username=username&label=visitors&color=blue&style=flat)
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/pacman-contribution-graph.svg">
-</picture>
+## 🟡 Pac-Man Contribution Graph  
+![Pacman graph](https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/pacman.svg)
 
 ---
 
 ⚡ *Always curious about how technology can make life smarter and easier.*  
+
