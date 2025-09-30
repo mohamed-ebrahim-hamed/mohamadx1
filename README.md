@@ -7,6 +7,15 @@
 
 ---
 
+### 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ebrahim-hamed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-ebrahim-hamed&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
+
+---
+
 ### 🔧 Skills & Tools  
 
 - **Programming & Data**:  
@@ -14,18 +23,30 @@
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-- **Data Visualization**:  
+- **Data Visualization & Analytics**:  
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=plotly&logoColor=white)  
+  ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white)  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
 - **AI & ML**:  
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
 
 - **Hardware & IoT**:  
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
+  ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)  
+  ![MATLAB](https://img.shields.io/badge/MATLAB-FF8800?style=for-the-badge&logo=mathworks&logoColor=white)  
+
+- **Other Tools**:  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
@@ -54,9 +75,30 @@
 
 ---
 
+### 🐍 Fun Stuff  
+
+<img src="https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/snake.svg" alt="Snake animation"/>
+
+---
+
 ### 🌐 Connect with Me  
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ebrahim-hamed)  
 - 📂 [GitHub](https://github.com/mohamed-ebrahim-hamed)  
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-ebrahim-hamed" alt="Visitor Counter"/>  
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed-ebrahim-hamed/mohamed-ebrahim-hamed/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
