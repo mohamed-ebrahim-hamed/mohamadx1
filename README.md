@@ -80,7 +80,7 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/username)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/mohamed-ebrahim-hamed/))  
 - 📂 [GitHub](https://github.com/username)  
 
 ![Visitors](https://komarev.com/ghpvc/?username=username&label=visitors&color=blue&style=flat)
